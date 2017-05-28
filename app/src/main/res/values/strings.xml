@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">remember</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_hello">ADD</string>
+    <string name="title_activity_run">RunActivity</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string-array name="alarm_number">
+        <item>Chose alarm from here</item>
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Night</item>
+        <item>M</item>
+        <item>A</item>
+        <item>N</item>
+
+    </string-array>
+</resources>
